@@ -22,6 +22,7 @@
   <img alt="NodeJs Icon" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img alt="React Icon" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img alt="MySQL Icon" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img alt="MSSQL Icon" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/de/8/8c/Microsoft_SQL_Server_Logo.svg" />
   <img alt="Postgrees Icon" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
   <img alt="PHP Icon" height="40" width="50" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/php/php.svg" />
   <img alt=".NET C# Icon" height="40" width="50" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/csharp/csharp.svg" />
