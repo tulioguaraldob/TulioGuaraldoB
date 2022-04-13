@@ -1,6 +1,7 @@
 ### Bom dia, boa tarde, boa noite! Eu sou o Túlio Guaraldo 👋
 
-- 🔭 I'm currently working as a BackEnd Developer.
+<!-- - 🔭 I'm currently working as a BackEnd Developer. -->
+- 🔭 I'm currently working as a Developer.
 <!-- - 🌱 I’m currently learning Golang. -->
 
 ##
